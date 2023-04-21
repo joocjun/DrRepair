@@ -1,0 +1,8 @@
+numpy
+tqdm
+regex
+joblib
+pyyaml
+bottle
+cheroot
+tensorboardX
